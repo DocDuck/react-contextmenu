@@ -30,6 +30,7 @@ export default class SubMenu extends AbstractMenu {
         hoverDelay: 500,
         attributes: {},
         className: '',
+        rootClassName: '',
         rtl: false,
         selected: false,
         onMouseMove: () => null,
@@ -236,7 +237,7 @@ export default class SubMenu extends AbstractMenu {
             ref: this.menuRef,
             onMouseEnter: this.handleMouseEnter,
             onMouseLeave: this.handleMouseLeave,
-            className: cx(cssClasses.menuItem, cssClasses.subMenu, attributes.listClassName),
+            className: cx(cssClasses.menuItem, cssClasses.subMenu, attributes.listClassName, this.props.rootClassName),
             style: {
                 position: 'relative'
             }
