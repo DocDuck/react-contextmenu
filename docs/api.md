@@ -19,7 +19,7 @@ Base Contextmenu Component.
 | onMouseLeave             | Function |           | Callback called when the mouse leaves the menu or submenu areas. |
 | onHide                   | Function |           | Callback called when the menu is hidden.                         |
 | onShow                   | Function |           | Callback called when the menu is shown.                          |
-| preventHideOnContextMenu | Boolean  |           | Prevents hiding of the context menu on contextMenu event.        | 
+| preventHideOnContextMenu | Boolean  |           | Prevents hiding of the context menu on contextMenu event.        |
 | preventHideOnResize      | Boolean  |           | Prevents hiding of the context menu on resize event.             |
 | preventHideOnScroll      | Boolean  |           | Prevents hiding of the context menu on scroll event.             |
 | className                | String   |           | Custom `className` applied to root element of the context-menu.  |
