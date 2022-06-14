@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
     entry: "./src/index.js",
     output: {
-        filename: "dist/react-contextmenu.js",
+        filename: "dist/react-contextmenu-fsght.js",
         libraryTarget: 'umd',
         library: 'ReactContextMenu'
     },

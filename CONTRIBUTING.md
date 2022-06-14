@@ -6,10 +6,10 @@ Please read https://reactjs.org/ and the Code of Conduct before opening an issue
 ### Found a bug?
 
 ##### Before Submitting A Bug Report
-- Please read the [API documentation](https://github.com/vkbansal/react-contextmenu#api) thoroughly
-- Perform a [cursory search](https://github.com/vkbansal/react-contextmenu/issues?utf8=%E2%9C%93&q=is%3Aissue) to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
+- Please read the [API documentation](https://github.com/docduck/react-contextmenu#api) thoroughly
+- Perform a [cursory search](https://github.com/docduck/react-contextmenu/issues?utf8=%E2%9C%93&q=is%3Aissue) to see if the problem has already been reported. If it has, add a comment to the existing issue instead of opening a new one.
 
-##### Submiting a (good) bug report
+##### Submitting a (good) bug report
 
 -   **Use a clear and descriptive title** for the issue to identify the problem.
 -   **Provide specific examples to demonstrate the steps**. Include links to CodePen/JS Bin or GitHub projects, or copy/paste-able snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
