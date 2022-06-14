@@ -1,4 +1,4 @@
-declare module "react-contextmenu" {
+declare module "react-contextmenu-fsght" {
     import * as React from "react";
 
     export interface ContextMenuProps {
