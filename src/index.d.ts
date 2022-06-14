@@ -66,7 +66,7 @@ declare module "react-contextmenu-fsght" {
     export function hideMenu(opts?: any, target?: HTMLElement): void;
 }
 
-declare module "react-contextmenu/modules/actions" {
+declare module "react-contextmenu-fsght/modules/actions" {
     export function showMenu(opts?: any, target?: HTMLElement): void;
     export function hideMenu(opts?: any, target?: HTMLElement): void;
 }

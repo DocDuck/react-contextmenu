@@ -1,5 +1,3 @@
-# Project is no longer maintained
-
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][deps-image]][deps-url]
@@ -8,9 +6,7 @@
 
 [![NPM](https://nodei.co/npm/react-contextmenu.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-contextmenu/)
 
-# React Contextmenu
-
-ContextMenu in React with accessibility support. Live Examples can be found [here](//docduck.github.io/react-contextmenu/)
+# React Contextmenu with SubMenu className
 
 ## Table of contents
 
@@ -28,13 +24,13 @@ ContextMenu in React with accessibility support. Live Examples can be found [her
 Using npm
 
 ```
-npm install --save react-contextmenu
+npm install --save react-contextmenu-fsght
 ```
 
 Using yarn
 
 ```
-yarn add react-contextmenu
+yarn add react-contextmenu-fsght
 ```
 
 ## Browser Support
@@ -51,7 +47,7 @@ Simple example
 ```jsx
 import React from "react";
 import ReactDOM from "react-dom";
-import { ContextMenu, MenuItem, ContextMenuTrigger } from "react-contextmenu";
+import { ContextMenu, MenuItem, ContextMenuTrigger } from "react-contextmenu-fsght";
 
 function handleClick(e, data) {
   console.log(data.foo);
@@ -104,11 +100,11 @@ see [usage docs](./docs/usage.md) / [examples](./examples) for more details.
 
 ## Contributors
 
-[All Contributors](https://github.com/docduck/react-contextmenu/graphs/contributors)
+[All Contributors](https://github.com/docduck/react-contextmenu-fsght/graphs/contributors)
 
 ## Changelog
 
-For Changelog, see [releases](https://github.com/docduck/react-contextmenu/releases)
+For Changelog, see [releases](https://github.com/docduck/react-contextmenu-fsght/releases)
 
 ## License
 

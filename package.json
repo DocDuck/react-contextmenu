@@ -39,12 +39,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/docduck/react-contextmenu.git"
+    "url": "https://github.com/docduck/react-contextmenu-fsght.git"
   },
   "bugs": {
-    "url": "https://github.com/docduck/react-contextmenu/issues"
+    "url": "https://github.com/docduck/react-contextmenu-fsght/issues"
   },
-  "homepage": "https://github.com/docduck/react-contextmenu",
+  "homepage": "https://github.com/docduck/react-contextmenu-fsght",
   "dependencies": {
     "classnames": "^2.2.5",
     "object-assign": "^4.1.0"
