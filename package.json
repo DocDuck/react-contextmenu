@@ -35,16 +35,16 @@
     "start:server": "http-server public -p 3000",
     "prepublishOnly": "npm run build"
   },
-  "author": "Vivek Kumar Bansal <contact@vkbansal.me>",
+  "author": "Aleksandr Mitin <alex.mitin.psmu@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vkbansal/react-contextmenu.git"
+    "url": "https://github.com/docduck/react-contextmenu.git"
   },
   "bugs": {
-    "url": "https://github.com/vkbansal/react-contextmenu/issues"
+    "url": "https://github.com/docduck/react-contextmenu/issues"
   },
-  "homepage": "https://github.com/vkbansal/react-contextmenu",
+  "homepage": "https://github.com/docduck/react-contextmenu",
   "dependencies": {
     "classnames": "^2.2.5",
     "object-assign": "^4.1.0"

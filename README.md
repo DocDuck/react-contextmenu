@@ -10,7 +10,7 @@
 
 # React Contextmenu
 
-ContextMenu in React with accessibility support. Live Examples can be found [here](//vkbansal.github.io/react-contextmenu/)
+ContextMenu in React with accessibility support. Live Examples can be found [here](//docduck.github.io/react-contextmenu/)
 
 ## Table of contents
 
@@ -104,11 +104,11 @@ see [usage docs](./docs/usage.md) / [examples](./examples) for more details.
 
 ## Contributors
 
-[All Contributors](https://github.com/vkbansal/react-contextmenu/graphs/contributors)
+[All Contributors](https://github.com/docduck/react-contextmenu/graphs/contributors)
 
 ## Changelog
 
-For Changelog, see [releases](https://github.com/vkbansal/react-contextmenu/releases)
+For Changelog, see [releases](https://github.com/docduck/react-contextmenu/releases)
 
 ## License
 
