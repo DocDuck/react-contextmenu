@@ -1,6 +1,6 @@
 {
   "name": "react-contextmenu-fsght",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Context Menu implemented in React with SubMenu root className",
   "main": "modules/index.js",
   "module": "es6/index.js",

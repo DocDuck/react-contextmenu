@@ -41,6 +41,7 @@ declare module "react-contextmenu-fsght" {
     export interface SubMenuProps {
         title: React.ReactElement<any> | React.ReactText,
         className?: string,
+        rootClassName?: string,
         disabled?: boolean,
         hoverDelay?: number,
         rtl?: boolean,
